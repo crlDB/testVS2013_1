@@ -12,6 +12,8 @@ namespace CA1
         {
             Console.WriteLine("TEST1");
             Console.WriteLine("TEST2");
+            Console.WriteLine("TEST3");
+
         }
     }
 }
